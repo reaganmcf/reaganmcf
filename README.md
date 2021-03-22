@@ -30,12 +30,11 @@
 
 <br>
 <br>
-<br>
-
-<img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=reaganmcf&count_private=true&theme=dark">
 
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaganmcf&hide=jupyter%20notebook&langs_count=6&count_private=true&exclude_repo=MineSweeper&layout=compact&theme=dark"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=reaganmcf&count_private=true&theme=dark">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaganmcf&hide=jupyter%20notebook&langs_count=6&count_private=true&exclude_repo=MineSweeper&theme=dark"/>
 
 
 <!--
