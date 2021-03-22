@@ -30,11 +30,11 @@
 <br>
 <br>
 
-
+<!--
 <img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=reaganmcf&count_private=true&theme=dark">
 
 <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaganmcf&hide=jupyter%20notebook&langs_count=6&count_private=true&exclude_repo=MineSweeper&theme=dark"/>
-
+-->
 
 <!--
 **reaganmcf/reaganmcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
