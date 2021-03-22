@@ -18,7 +18,6 @@
 
 <img align="right" width="40%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-
 ### I am a Student at Rutgers New Brunswick
 - 🔭 Currently working on Deep Learning AI Research
 - 💼 Currently interning at Balyasny Asset Management for Summer 2021
@@ -32,9 +31,9 @@
 <br>
 
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=reaganmcf&count_private=true&theme=dark">
+<img align="left" width="60%" src="https://github-readme-stats.vercel.app/api?username=reaganmcf&count_private=true&theme=dark">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaganmcf&hide=jupyter%20notebook&langs_count=6&count_private=true&exclude_repo=MineSweeper&theme=dark"/>
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaganmcf&hide=jupyter%20notebook&langs_count=6&count_private=true&exclude_repo=MineSweeper&theme=dark"/>
 
 
 <!--
