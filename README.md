@@ -19,11 +19,11 @@
 <img align="right" width="40%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Student at Rutgers New Brunswick
-- 🔭 Currently working on Deep Learning AI Research
+- 🔭 Currently working on Deep Learning AI Research and [lightmon](https://github.com/reaganmcf/lightmon)
 - 💼 Currently interning at Balyasny Asset Management for Summer 2021
 - 🌱 Currently learning
   - 💾 Operating Systems
-  - 📝 Vim
+  - 📝 Rust
   - 🥼 Biomedical Imaging Data Manipulation
 - 📬 How to reach me: [Message me on LinkedIn!](https://www.linkedin.com/in/reaganmcf/)
 
