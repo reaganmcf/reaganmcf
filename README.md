@@ -19,7 +19,7 @@
 <img align="right" width="40%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am a Student at Rutgers New Brunswick
-- 🔭 Currently working on [nakala](https://github.com/reaganmcf/nakala) and [lightmon](https://github.com/reaganmcf/lightmon)
+- 🔭 Currently working on [nakala](https://github.com/nakala-lang/nakala)
 - 💼 Currently interning at Balyasny Asset Management for Summer 2021
 - 🌱 Currently learning
   - 💾 Programming Languages
