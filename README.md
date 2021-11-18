@@ -20,7 +20,7 @@
 
 ### I am a Student at Rutgers New Brunswick
 - 🔭 Currently working on [nakala](https://github.com/nakala-lang/nakala)
-- 💼 Currently interning at Balyasny Asset Management for Summer 2021
+- 💼 Currently interning at Balyasny Asset Management 
 - 🌱 Currently learning
   - 💾 Programming Languages
   - 📝 Rust
