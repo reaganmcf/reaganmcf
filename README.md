@@ -24,7 +24,7 @@
 - 🌱 Currently learning
   - 💾 Programming Languages
   - 📝 Rust
-- 📬 How to reach me: [Message me on LinkedIn!](https://www.linkedin.com/in/reaganmcf/)
+- 📬 How to reach me: [DM me on twitter!](https://www.twitter.com/in/reaganmcf_/)
 
 <br>
 <br>
