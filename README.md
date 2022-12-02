@@ -18,10 +18,11 @@
 
 <img align="right" width="40%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Student at Rutgers New Brunswick
-- 🔭 Currently working on [roth](https://github.com/reaganmcf/roth)
-- 💼 Currently interning at Balyasny Asset Management 
-- 🌱 Currently learning
+### What I'm up to
+- 🔭 Working on [chipmunk](https://github.com/reaganmcf/chipmunk)
+- 🎥 Live coding on [twitch](https://twitch.tv/reaganmcf_)
+- 💼 Currently at Balyasny Asset Management 
+- 🌱 Learning
   - 💾 Programming Languages
   - 📝 Rust
 - 📬 How to reach me: [DM me on twitter!](https://www.twitter.com/in/reaganmcf_/)
