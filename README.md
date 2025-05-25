@@ -21,7 +21,7 @@
 - 🌱 Learning
   - 💾 Programming Languages
   - 📝 Rust
-- 📬 How to reach me: [DM me on twitter!](https://www.twitter.com/in/reaganmcf_/)
+- 📬 How to reach me: [DM me on twitter!](https://www.twitter.com/reaganmcf_/)
 
 <br>
 <br>
